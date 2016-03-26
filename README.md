@@ -3,8 +3,9 @@
 It is supposed all the homework assignments and all the
 problems covered during lectures go here.
 
-1) After each of lectures corresponding folder will be created
-and to which etalon codes will uploaded every Sunday in the evening.
+1) After each of lectures corresponding folders for assignments problems and problem covered during
+lectures will be created and to which etalon codes for covred problems will uploaded every Sunday in the evening
+and assignments solutions will be uploaded on Saturday evening.
 
 2) After that you ought to create folder with your name and push that to master.
 
@@ -18,8 +19,8 @@ code,assign me as a reviewer.
 
 5) Your branch should contain informative description what for PR has been created.
 
-5) After getting LGTM and squashing the commits, you can freely push the code to
+6) After getting LGTM and squashing the commits, you can freely push the code to
 the master branch.
 
-6) Tutorial for getting comfortable with git-workflow :
+7) Tutorial for getting comfortable with git-workflow :
 https://www.atlassian.com/git/tutorials/what-is-version-control
