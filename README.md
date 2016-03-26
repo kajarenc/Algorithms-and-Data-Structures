@@ -1,3 +1,4 @@
-# Algorithms-and-Data-Structures
+# Workflow for Algorithsm and Data structures course.
 
-Solutions for assignments and problems covered in lectures.
+It is supposed all the homework assignments and all the
+problems covered during lectures go here.
