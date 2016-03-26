@@ -9,11 +9,11 @@ and to which etalon codes will uploaded every Sunday in the evening.
 2) After that you ought to create folder with your name and push that to master.
 
 3) For problems covered in lecture create branch which has the following format:
-'YOUR_NAME:LECTURE_NUMBER' after you are done create Pull-Request with that code,
+'LECTURE_PROBLEMS:$YOUR_NAME$:$LECTURE_NUMBER$' after you are done create Pull-Request with that code,
 assign me as a reviewer.
 
 4) For homework assignments create branch which has the following format :
-'YOUR_NAME:ASSIGNMENT_NUMBER' after you are done create Pull-Request with that
+'ASSIGNMENT_PROBLEMS:$YOUR_NAME$:$ASSIGNMENT_NUMBER$' after you are done create Pull-Request with that
 code,assign me as a reviewer.
 
 5) Your branch should contain informative description what for PR has been created.
