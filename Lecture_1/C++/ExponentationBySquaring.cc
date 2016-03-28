@@ -19,7 +19,7 @@ long long PowIterative(long long a, long long n, long long MOD) {
 
 long long PowRecursive(long long a, long long n, long long MOD) {
   if(n == 0) return 1;
-  if(n == 1) return a;
+  if(n == 1) return a % MOD;
 
   // If number is odd.
   if (n & 1) {

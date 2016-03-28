@@ -37,7 +37,7 @@ public class ExponentationBySquaring {
 			return 1;
 		}
 		if (n == 1L) {
-			return a;
+			return a % mod;
 		}
 		if (n % 2 == 1) {
 			return a * RecursiveExponentation(a, n - 1, mod) % mod;
